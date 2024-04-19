@@ -1,0 +1,7 @@
+C:\Users\GadMod\source\repos\здд1\здд1\bin\Debug\здд1.exe.config
+C:\Users\GadMod\source\repos\здд1\здд1\bin\Debug\здд1.exe
+C:\Users\GadMod\source\repos\здд1\здд1\bin\Debug\здд1.pdb
+C:\Users\GadMod\source\repos\здд1\здд1\obj\Debug\здд1.csproj.AssemblyReference.cache
+C:\Users\GadMod\source\repos\здд1\здд1\obj\Debug\здд1.csproj.CoreCompileInputs.cache
+C:\Users\GadMod\source\repos\здд1\здд1\obj\Debug\здд1.exe
+C:\Users\GadMod\source\repos\здд1\здд1\obj\Debug\здд1.pdb
